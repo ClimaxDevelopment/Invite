@@ -109,7 +109,7 @@
                             </tr>
                             <thead>
                             <tr>
-                            <th>Utility Commands:</th>
+                            <th>Utility:</th>
                             <th></th>
                             </tr>
                             </thead>
@@ -142,7 +142,7 @@
                             </tr>
                             <thead>
                             <tr>
-                            <th>Meme Commands:</th>
+                            <th>Meme:</th>
                             <th></th>
                             </tr>
                             </thead>
